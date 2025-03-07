@@ -15,7 +15,7 @@
 
 🧑‍💻 telegram: https://t.me/that_is_myname
 
-🇫 facebook: https://www.facebook.com/andrei.dangerwind
+🇫 facebook: https://www.facebook.com/andrei.dangerwind (тут я начал писать о том, что создавал, разрабатывал и продавал)
 
 Пишите!
 

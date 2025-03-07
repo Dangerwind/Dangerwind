@@ -10,9 +10,12 @@
 
 Если что, мои контакты:
 
-e-mail: dangerwind@gmail.com
+
+✉️ e-mail: dangerwind@gmail.com
+
 telegram: https://t.me/that_is_myname
-facebook: https://www.facebook.com/andrei.dangerwind
+
+[facebook:](https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg)    facebook: https://www.facebook.com/andrei.dangerwind
 
 Пишите!
 

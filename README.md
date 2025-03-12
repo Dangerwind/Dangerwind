@@ -11,11 +11,11 @@
 Если что, мои контакты:
 
 
-✉️ e-mail: dangerwind@gmail.com
+✉️: dangerwind@gmail.com
 
-🧑‍💻 telegram: https://t.me/that_is_myname
+🧑‍💻: https://t.me/that_is_myname
 
-🇫 facebook: https://www.facebook.com/andrei.dangerwind (тут я начал писать о том, что создавал, разрабатывал и продавал)
+🇫: https://www.facebook.com/andrei.dangerwind (тут я начал писать о том, что создавал, разрабатывал и продавал)
 
 Пишите!
 

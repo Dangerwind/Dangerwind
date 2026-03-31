@@ -9,7 +9,7 @@
 [![Habr](https://img.shields.io/badge/Хабр_Карьера-akokorev-65A3BE?style=flat&logo=habr&logoColor=white)](https://career.habr.com/akokorev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Andrey__79-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Andrey_79/)
 
-**Ищу работу Java-разработчиком в Москве · Готов к удалённой работе**
+**Ищу работу Java-разработчиком · Готов к удалённой работе**
 
 </div>
 
@@ -70,6 +70,46 @@
 
 ### 📂 Java проекты
 
+#### 🎸 [myGuitarLib](https://github.com/Dangerwind/myGuitarLib) · [myGuitarLib.ru](https://myGuitarLib.ru)
+> Личная библиотека текстов песен с аккордами — работает в продакшене!
+
+Fullstack пет-проект: пользователь хранит свои варианты текстов и аккордов, может делиться ими. JWT авторизация на RSA ключах.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+---
+
+#### 🧩 [Inertia4J SPA Example](https://github.com/Dangerwind/Inertia4G-InertiaJS-SPA-Example)
+> Демо интеграции Java backend с Inertia.js для построения SPA
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+---
+
+#### 🔗 [Short Link](https://github.com/Dangerwind/shortlink)
+> Генератор коротких ссылок с REST API
+
+Создание коротких ссылок, редирект, статистика переходов и рейтинг ссылок по популярности.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+#### 💡 [LeetCode Solutions](https://github.com/Dangerwind/LeetCodeMySolution)
+> Мои решения алгоритмических задач
+
+[![LeetCode](https://img.shields.io/badge/Profile-Andrey__79-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Andrey_79/)
+
+---
+
 #### 🤝 [Hexlet CV](https://github.com/Dangerwind/hexlet-cv)
 > Open-source платформа для создания резюме
 
@@ -95,19 +135,6 @@
 
 ---
 
-#### 🎸 [myGuitarLib](https://github.com/Dangerwind/myGuitarLib) · [myGuitarLib.ru](https://myGuitarLib.ru)
-> Личная библиотека текстов песен с аккордами — работает в продакшене!
-
-Fullstack пет-проект: пользователь хранит свои варианты текстов и аккордов, может делиться ими. JWT авторизация на RSA ключах.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
----
-
 #### 🔍 [Difference Finder](https://github.com/Dangerwind/DifferenceFinder)
 > CLI-утилита для сравнения JSON/YAML файлов
 
@@ -119,38 +146,12 @@ Fullstack пет-проект: пользователь хранит свои в
 
 ---
 
-#### 🔗 [Short Link](https://github.com/Dangerwind/shortlink)
-> Генератор коротких ссылок с REST API
-
-Создание коротких ссылок, редирект, статистика переходов и рейтинг ссылок по популярности.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
----
-
-#### 🧩 [Inertia4J SPA Example](https://github.com/Dangerwind/Inertia4G-InertiaJS-SPA-Example)
-> Демо интеграции Java backend с Inertia.js для построения SPA
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
----
 
 #### 🧮 [Correctness Check](https://github.com/Dangerwind/CorrectnessCheck)
 > Библиотека проверки корректности данных
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
-
----
-
-#### 💡 [LeetCode Solutions](https://github.com/Dangerwind/LeetCodeMySolution)
-> Мои решения алгоритмических задач
-
-[![LeetCode](https://img.shields.io/badge/Profile-Andrey__79-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Andrey_79/)
 
 ---
 

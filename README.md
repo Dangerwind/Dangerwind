@@ -1,30 +1,96 @@
-# Я ищу работу Java разработчиком !!!
+# Привет! Я Андрей Кокорев 👋
 
+## Java Backend Developer
 
-А теперь:
+Ищу работу Java-разработчиком в Москве (готов к удалённой работе).
 
+### 🚀 Стек
 
-# Всем привет! ⚡
-Я Андрей, и я разработчик на Java. 
+- **Backend:** Java, Spring Boot, Spring Data JPA, Spring Security, REST API
+- **БД:** PostgreSQL, H2, SQL
+- **Тесты:** JUnit, Mockito
+- **Инструменты:** Gradle, Git, GitHub Actions, IntelliJ IDEA, Postman
+- **Прочее:** Sentry, OpenAPI, Inertia4J
 
-Долгое время я программировал микроконтроллеры на Си (на чистом Си, регистры и все такое...) и успешно производил различные устройства, которые продавались в России, в Европе и США (сам удивлен, как так получилсь). 
-И это было мое хобби и работа. Мне надоело, у меня не дом, а лаборатория (у меня еще ЧПУ, лазер, 3D принтеры самодельные...). Я же еще и схемотехникой занимался и конструированием и вообще всем, от задумки до серийного производства.
+### 💼 Опыт
 
-Свичнулся на Java. Тепепь у меня новое хобби.
+- Участвовал в разработке open-source проекта **[Hexlet CV](https://github.com/hexlet-volunteers/hexlet-cv)** — реализовывал регистрацию, авторизацию, профили пользователей и админ-панель (Java, Spring Boot, Inertia4J)
+- Тьютор Java на платформе **Хекслет** — помогаю студентам разбираться в задачах и развивать навыки программирования
+- **18 лет** опыта в embedded-разработке на C (STM32, ESP32, ATmega) — разрабатывал системы охраны периметра, прошивки устройств, обработка сигналов (БПФ/Фурье), передача данных по RS485
 
-Буду очень рад сотрудничеству, хотелось бы поработать над интересными проектами.  И мне будет приятно, если информация, размещенная тут, будет полезна кому-то.
+### 🎓 Образование
 
-Если что, мои контакты:
+- **МЭИ** — инженер, специальность «Электромеханика»
+- **Хекслет** — профессиональная переподготовка, Java-разработчик
 
+---
 
-✉️: dangerwind@gmail.com
+### 📂 Java проекты
 
-🧑‍💻: https://t.me/that_is_myname
+#### 🔧 [Hexlet CV](https://github.com/Dangerwind/hexlet-cv)
+Open-source проект — платформа для создания резюме.
+Участвовал в разработке backend: регистрация, авторизация, профили пользователей, админ-панель через Inertia4J.
+**Стек:** Java · Spring Boot · Spring Data JPA · PostgreSQL · Gradle · GitHub Actions
 
-🇫: https://www.facebook.com/andrei.dangerwind (тут я начал писать о том, что создавал, разрабатывал и продавал)
+---
 
-Пишите!
+#### ✅ [Task Manager](https://github.com/Dangerwind/TaskManager)
+Backend менеджера задач с авторизацией и разграничением прав доступа.
+Проект задеплоен на render.com, реализована OpenAPI спецификация, подключён Sentry для отслеживания ошибок.
+**Стек:** Java · Spring Boot · Spring Security · PostgreSQL · H2 · JUnit · Gradle · Sentry
 
-PS: У меня высшее техничесткое образование и я программирую с 8 лет (Basic, Psacal, Assembler и тд... просто раньше все программы печатали в журналах, их надо было перебить, запустить и найти, где опечатка, которую исправят в будущем номере)
+---
 
+#### 🔍 [Difference Finder](https://github.com/Dangerwind/DifferenceFinder)
+CLI-утилита которая сравнивает два файла (JSON/YAML) и показывает добавленные, удалённые и изменённые записи. Поддерживает форматы вывода: stylish, plain, json.
+**Стек:** Java · JUnit · Gradle · JaCoCo · Git
 
+---
+
+#### 🔗 [Short Link](https://github.com/Dangerwind/shortlink)
+Генератор коротких ссылок с REST API. Поддерживает создание коротких ссылок, редирект, статистику переходов и рейтинг ссылок по популярности.
+**Стек:** Java · Spring Boot · PostgreSQL · REST API
+
+---
+
+#### 🧩 [Inertia4J SPA Example](https://github.com/Dangerwind/Inertia4G-InertiaJS-SPA-Example)
+Демо-проект интеграции Java backend с Inertia.js для построения SPA без отдельного API.
+**Стек:** Java · Spring Boot · Spring Data JPA · Inertia4J · TypeScript
+
+---
+
+#### 🧮 [Correctness Check](https://github.com/Dangerwind/CorrectnessCheck)
+Библиотека проверки корректности данных.
+**Стек:** Java · JUnit · Gradle
+
+---
+
+#### 💡 [LeetCode Solutions](https://github.com/Dangerwind/LeetCodeMySolution)
+Мои решения алгоритмических задач на LeetCode.
+**Стек:** Java
+
+---
+
+### 📂 Embedded проекты (C/C++)
+
+#### 🛡️ [BagulnikMzBase](https://github.com/Dangerwind/BagulnikMzBase)
+Прошивка центральной станции системы охраны периметра «Багульник-М МЗ».
+Web-сервер, Telegram-бот, WiFi, Ethernet, RS485.
+**Стек:** C++ · PlatformIO · FreeRTOS · ESP32 · W5500
+
+#### ☢️ [RadiationControl](https://github.com/Dangerwind/RadiationControl)
+Прошивка сигнализатора ионизирующего излучения.
+**Стек:** C · CodeVisionAVR · ATmega8L
+
+#### 💡 [HandyLed](https://github.com/Dangerwind/HandyLed)
+Прошивка «умного» фонарика BiBuPro с адресными светодиодами.
+**Стек:** C · ST Visual Develop · STM8L
+
+---
+
+### 📫 Контакты
+
+- 📧 dangerwind@gmail.com
+- 💬 Telegram: [@that_is_myname](https://t.me/that_is_myname)
+- 💼 Хабр Карьера: [career.habr.com/akokorev](https://career.habr.com/akokorev)
+- 🧩 LeetCode: [leetcode.com/u/Andrey_79](https://leetcode.com/u/Andrey_79/)

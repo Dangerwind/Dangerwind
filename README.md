@@ -9,7 +9,7 @@
 [![Habr](https://img.shields.io/badge/Хабр_Карьера-akokorev-65A3BE?style=flat&logo=habr&logoColor=white)](https://career.habr.com/akokorev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Andrey__79-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Andrey_79/)
 
-**Ищу работу Java-разработчиком · Готов к удалённой работе**
+**Ищу работу Java-разработчиком
 
 </div>
 

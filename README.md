@@ -188,9 +188,7 @@ Web-сервер, Telegram-бот, WiFi, Ethernet, RS485.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dangerwind&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangerwind&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=Dangerwind&theme=default&hide_border=true)
 
 </div>
 

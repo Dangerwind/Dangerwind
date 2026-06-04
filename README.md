@@ -78,7 +78,7 @@ Fullstack пет-проект: Игра пользователя с компью
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 
 
 #### 🎸 [myGuitarLib](https://github.com/Dangerwind/myGuitarLib) · [guitar.dangerwind.com](https://guitar.dangerwind.com/)

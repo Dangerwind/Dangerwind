@@ -70,7 +70,7 @@
 
 
 ### 📂 Java проекты
-#### 🏰 [Crusidefive](https://github.com/Dangerwind/crusadefive) · [https://game.dangerwind.com/)](https://game.dangerwind.com/)
+#### 🏰 [Crusidefive](https://github.com/Dangerwind/crusadefive) · [https://game.dangerwind.com/](https://game.dangerwind.com/)
 > Игра в крестики-нолики 5 в ряд с анимацией, рыцарями и музыкой — работает в продакшене!
 
 Fullstack пет-проект: Игра пользователя с компьютером, реализован AI алгоритм игры, база с игроками, рейтинг.  

@@ -66,11 +66,22 @@
 - ☕ **Хекслет** — профессиональная переподготовка, Java-разработчик
 - 🇬🇧 **Английский язык A2** — курсы Virginia Bēowulf
 
----
+---https://github.com/Dangerwind/crusadefive
 
 ### 📂 Java проекты
+#### 🏰 [Crusidefive](https://github.com/Dangerwind/crusadefive)) · [game.dangerwind.com](https://game.dangerwind.com/))
+> Игра в крестики-нолики 5 в ряд с анимацией, рыцарями и музыкой — работает в продакшене!
 
-#### 🎸 [myGuitarLib](https://github.com/Dangerwind/myGuitarLib) · [myGuitarLib.ru](https://myGuitarLib.ru)
+Fullstack пет-проект: Игра пользователя с компьютером, реализован AI алгоритм игры, база с игроками, рейтинг.  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+
+#### 🎸 [myGuitarLib](https://github.com/Dangerwind/myGuitarLib) · [guitar.dangerwind.com](https://guitar.dangerwind.com/)
 > Личная библиотека текстов песен с аккордами — работает в продакшене!
 
 Fullstack пет-проект: пользователь хранит свои варианты текстов и аккордов, может делиться ими. JWT авторизация на RSA ключах.

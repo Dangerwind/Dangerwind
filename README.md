@@ -67,10 +67,10 @@
 - 🖥️ **Хекслет** — курс "ИИ для разработчиков"
 - 🇬🇧 **Английский язык A2** — курсы Virginia Bēowulf
 
----https://github.com/Dangerwind/crusadefive
+
 
 ### 📂 Java проекты
-#### 🏰 [Crusidefive](https://github.com/Dangerwind/crusadefive) · [game.dangerwind.com](https://game.dangerwind.com/)
+#### 🏰 [Crusidefive](https://github.com/Dangerwind/crusadefive) · [https://game.dangerwind.com/)](https://game.dangerwind.com/)
 > Игра в крестики-нолики 5 в ряд с анимацией, рыцарями и музыкой — работает в продакшене!
 
 Fullstack пет-проект: Игра пользователя с компьютером, реализован AI алгоритм игры, база с игроками, рейтинг.  
@@ -82,7 +82,7 @@ Fullstack пет-проект: Игра пользователя с компью
 
 
 
-#### 🎸 [myGuitarLib](https://github.com/Dangerwind/myGuitarLib) · [guitar.dangerwind.com](https://guitar.dangerwind.com/)
+#### 🎸 [myGuitarLib](https://github.com/Dangerwind/myGuitarLib) · [https://guitar.dangerwind.com/](https://guitar.dangerwind.com/)
 > Личная библиотека текстов песен с аккордами — работает в продакшене!
 
 Fullstack пет-проект: пользователь хранит свои варианты текстов и аккордов, может делиться ими. JWT авторизация на RSA ключах.
